@@ -1,0 +1,26 @@
+.container{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    border-radius: 10px;
+    width: 245px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.qr-code img{
+    border-radius: 10px;
+    width: 100%;
+}
+
+.title{
+    font-weight: 800;
+    text-align: center;
+}
+
+.description{
+    font-size: 15px;
+    color: gray;
+    text-align: center;
+}
